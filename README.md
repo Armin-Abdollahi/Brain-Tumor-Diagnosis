@@ -17,7 +17,8 @@ The dataset has 253 samples, which are divided into two classes with tumor and n
 
 ## A summary of the CNN model
 
-![Screenshot (831)](https://github.com/Armin-Abdollahi/Brain-Tumor-Diagnosis/assets/103449830/c6ebbc2b-931b-4b72-9679-c20d8f88c870)
+![Screenshot (831)](https://github.com/Armin-Abdollahi/Brain-Tumor-Diagnosis/assets/103449830/896984e2-df2e-4f92-86fa-c705c8e5a1c6)
+
 
 ## Training
 
